@@ -42,8 +42,8 @@ export const members = [
       alt: 'Homem de camisa preta na igreja',
     },
     redesSocias: {
-      github: '',
-      linkedin: '',
+      github: 'https://github.com/TiagoAugustoFront',
+      linkedin: 'https://www.linkedin.com/in/tiago-augusto-santos-silva/',
     },
   },  
   
