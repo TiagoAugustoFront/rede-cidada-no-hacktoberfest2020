@@ -90,7 +90,6 @@ export const members = [
       linkedin: '',
     },
   },  
-  }, 
   {
     nome: 'Markus Dennys',
     participante: 'Aluno',
